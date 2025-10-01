@@ -2,7 +2,7 @@
 
 ### ☁️ Senior Architect | AI Engineer | SRE | Tech Strategist
 
-Highly experienced **Solution Engineer** focused on building and optimizing large-scale, high-availability platforms. My current passion is leveraging **Generative AI (LLMs)** to automate complex engineering workflows and accelerate developer productivity.
+Highly experienced **Solution Engineer** dedicated to delivering measurable value and significant organizational impact. My expertise lies in architecting and optimizing large-scale platforms. My current passion is leveraging Generative AI (LLMs) to automate complex engineering workflows and accelerate developer productivity.
 
 ---
 
